@@ -2,7 +2,7 @@ deployment:
   prod:
     branch: master
     heroku:
-      appname: et-deliver-it-well
+      appname: et-deliver-it-well2
 machine:
   node:
     version: 8.1.4
